@@ -1,0 +1,365 @@
+{
+    "data": [
+        {
+            "id": "0038174c-1404-4d82-b361-93dc418cf7c7",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-11T11:24:10"
+        },
+        {
+            "id": "0121689e-b143-496c-9ff1-ff109aacbf89",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-11T11:23:07"
+        },
+        {
+            "id": "0134005a-4a30-4b75-83b0-97b4b6944453",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-11T22:27:07"
+        },
+        {
+            "id": "01415a84-7cd0-4b8f-91a0-f31396b89852",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-11T22:18:38"
+        },
+        {
+            "id": "0193c1bb-7d2f-4510-a728-0010beafadcc",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-11T11:23:14"
+        },
+        {
+            "id": "01e9a6da-67dd-41ad-93d7-6f9f1c0d83f0",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-11T22:19:10"
+        },
+        {
+            "id": "0264fd32-6467-42d9-86e4-148a2bff9403",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 1,
+            "weapon": 0,
+            "timeAndDate": "2023-05-09T11:19:59"
+        },
+        {
+            "id": "02ab632c-a827-4476-8fde-91cb1574c245",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-11T22:18:21"
+        },
+        {
+            "id": "02adf0fb-505a-4bd4-a3af-8ecdeb0c54dd",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-11T11:24:11"
+        },
+        {
+            "id": "02b1b247-3160-4eb9-b4b7-ee6fe9d5fe00",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-11T11:22:33"
+        },
+        {
+            "id": "02c44b08-5d0e-4726-8420-e8ff5ddc386f",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-11T22:27:56"
+        },
+        {
+            "id": "02e5e80b-45f9-47e8-8f18-ea14d315dc78",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-11T22:26:40"
+        },
+        {
+            "id": "031ca246-75ad-4630-bf4a-c85396a6bb91",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-11T22:22:44"
+        },
+        {
+            "id": "03327db7-0dad-45ec-869a-117973ba0e74",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-11T22:18:56"
+        },
+        {
+            "id": "03373ead-03d2-4f53-b5eb-58311ab5f88c",
+            "isSynced": 0,
+            "fire": 1,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-11T22:24:40"
+        },
+        {
+            "id": "03449e76-83f3-4f23-ab76-5aa527c8f3d2",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-11T22:25:01"
+        },
+        {
+            "id": "037fc6d0-d106-462b-a32e-7cd640cc7a8e",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-11T11:21:45"
+        },
+        {
+            "id": "03ce0476-d7a2-41ef-897f-64390182262c",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-11T11:19:28"
+        },
+        {
+            "id": "042dfe87-411e-4d73-be72-dc3f70c98027",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-11T22:27:48"
+        },
+        {
+            "id": "04e8ebee-eed8-46f9-9a63-d3d36144af2c",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-11T11:24:26"
+        },
+        {
+            "id": "04f75f77-3911-4938-b37d-a1953f3e7506",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-11T22:28:01"
+        },
+        {
+            "id": "04fa5da0-7434-4dba-9908-6c7a298672b0",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-11T22:24:59"
+        },
+        {
+            "id": "0522e516-63dd-4ed3-b8b6-7fc6a194f2e1",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-11T11:24:35"
+        },
+        {
+            "id": "05cd9cd0-8f1b-4b43-8446-e1e2fa173b41",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-11T22:27:34"
+        },
+        {
+            "id": "05da582a-afd9-4106-b50c-c10627e936c3",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-11T11:20:28"
+        },
+        {
+            "id": "066c0251-8f5e-4f44-b5b3-09728b9dc14c",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-11T11:19:53"
+        },
+        {
+            "id": "06af5c67-6a90-4d6a-8934-aa1e7fb8a88e",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-09T11:25:18"
+        },
+        {
+            "id": "06b25c36-015a-4c74-9c0f-ab85d5ff9b62",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-10T22:27:25"
+        },
+        {
+            "id": "06cee07b-ab85-43fa-9b15-239cbfe6b273",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-10T22:22:56"
+        },
+        {
+            "id": "073ac42c-791a-4c01-b48c-043570c0d0ca",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-09T11:23:23"
+        },
+        {
+            "id": "07b42116-ac0b-417c-b8e9-553559b82a64",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-09T11:19:31"
+        },
+        {
+            "id": "08683c76-7269-4a14-8747-6de92595f95a",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-10T22:23:09"
+        },
+        {
+            "id": "08dcd05b-4594-427f-92f9-e361d73b1f2f",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-10T22:27:50"
+        },
+        {
+            "id": "09125535-87d0-4366-a307-6fd83a68abf3",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-10T22:23:37"
+        },
+        {
+            "id": "095a5ccb-1396-4483-a80b-dff44db2df97",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-10T22:18:52"
+        },
+        {
+            "id": "09f47de0-effd-4924-8e18-7d448b870b16",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-10T22:26:49"
+        },
+        {
+            "id": "0a1b068b-3de4-4315-aa6b-9e77bbd182e3",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-09T11:20:12"
+        },
+        {
+            "id": "0a29ae60-0a64-471c-98a6-c8e89a937d03",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-09T11:23:34"
+        },
+        {
+            "id": "0a3269d2-5291-433f-83b5-01ab5cf15e4d",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-09T11:25:03"
+        },
+        {
+            "id": "0a57bd54-fe65-4b2b-8126-dcdbdb7324fe",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-09T11:25:22"
+        },
+        {
+            "id": "0a6505af-8d30-4b06-9685-6abfdb00f920",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-11T22:27:06"
+        },
+        {
+            "id": "0aad261c-16de-4b3a-88f8-8d5581837d29",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-10T22:27:22"
+        },
+        {
+            "id": "0ad80dec-e793-49f5-914a-d12a9bea311d",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-10T22:27:03"
+        },
+        {
+            "id": "0aeccc8b-e0ed-4866-8b74-a0e78219fe5f",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-09T11:21:43"
+        },
+        {
+            "id": "0af078d5-8904-4796-9dcd-7ecdf6819a54",
+            "isSynced": 0,
+            "fire": 0,
+            "traffic": 0,
+            "weapon": 0,
+            "timeAndDate": "2023-05-10T22:27:13"
+        }
+],
+"httpStatusCode":"200"
+}

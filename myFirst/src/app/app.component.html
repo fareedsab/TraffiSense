@@ -1,0 +1,9 @@
+<app-navbar *ngIf="isLoggedIn$ | async as isLoggedIn"></app-navbar>
+<my-sidebar *ngIf="isLoggedIn$ | async as isLoggedIn" [isExpanded]="sidebarExpanded"
+    (toggleSidebar)="sidebarExpanded = !sidebarExpanded"></my-sidebar>
+    <!-- <app-slip></app-slip> -->
+
+<div class="content" [ngClass]="{ 'sidebarExpanded': sidebarExpanded }" style="margin:10px 0 0 100px">
+    <ngx-ui-loader ></ngx-ui-loader>
+    <router-outlet></router-outlet>
+</div>

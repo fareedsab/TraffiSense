@@ -1,0 +1,61 @@
+<button (click)="printPosSlip()">Print Slip</button>
+<div class="receipt-container" id="pos-slip">
+  <h2 class="store-name" style="text-align: left">Sadya General Store</h2>
+  <p class="address" style="text-align: left">DHA Extension 2</p>
+  <p class="invoice-number" style="text-align: left">INV #: 1683119392148-68-122</p>
+  <p class="phone-number" style="text-align: left">03108094305</p>
+  <p class="date" style="text-align: left">03/05/2023 06:09:52 pm</p>
+
+  <table class="item-list">
+    <thead>
+      <tr>
+        <th class="description"style="text-align: left">DESCRIPTION</th>
+        <th class="qty" style="text-align: center">QTY</th>
+        <th class="amount" style="text-align: right">AMOUNT</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="description">Other-10 Rupees</td>
+        <td class="qty">10x1</td>
+        <td class="amount">10</td>
+      </tr>
+      <tr>
+        <td class="description">Other-5 Rupees</td>
+        <td class="qty">5x1</td>
+        <td class="amount">5</td>
+      </tr>
+      <tr>
+        <td class="description">Other-2 Rupees</td>
+        <td class="qty">2x1</td>
+        <td class="amount">2</td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="3" class="totals">TOTAL ITEMS: 3  </td>
+      
+      </tr>
+      <tr>
+        <td colspan="3" class="totals">TOTAL QUANTITY: 3</td>
+      </tr>
+      <tr>
+        <td colspan="2" class="totals">TOTAL:</td>
+        <td class="amount">Rs.17</td>
+      </tr>
+      <tr>
+        <td colspan="2" class="totals">RECEIVED:</td>
+        <td class="amount">Rs.17</td>
+      </tr>
+      <tr>
+        <td colspan="2" class="totals">CASH RETURNED:</td>
+        <td class="amount">Rs.0</td>
+      </tr>
+    </tfoot>
+  </table>
+
+  
+
+  <p class="powered-by">Powered by SnappRetail | https://www.snappretail.io</p>
+  <p class="thank-you">THANK YOU FOR SHOPPING</p>
+</div>

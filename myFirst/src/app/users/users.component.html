@@ -1,0 +1,94 @@
+<div class="container">
+    <div class="card">
+        <div class="card-header" style="display: flex; justify-content: space-between;">
+            <div>
+                <h4>User Details</h4>
+            </div>
+            <div class="div">
+                <button type="button" (click)="openModal()" class="btn btn-md btn-warning "
+                    style="background: salmon; color: white;"> Add
+                    User</button>
+                <!-- <button type="button" class="btn btn-info btn-lg" >click to open</button> -->
+            </div>
+        </div>
+        <div class="card-body">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">First Name</th>
+                        <th scope="col">Last Name</th>
+                        <th scope="col">Username</th>
+                        <th scope="col">Is Verified</th>
+                        <th scope="col">Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let item of userList  let i = index">
+                        <th scope="row">{{i + 1}}</th>
+                        <td>{{ item['firstName'] }}</td>
+                        <td>{{item['lastName']}}</td>
+                        <td>{{item['username']}}</td>
+                        <td>{{item['verified']}}</td>
+                        <td style="width: 200px;"><button class="btn btn-success btn-sm"
+                                (click)="editModal(item)">Edit</button>&nbsp;
+                            <button class="btn btn-danger btn-sm" (click)="deleteUser(item['id'])">Delete</button>
+                        </td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="modal" tabindex="-1" role="dialog" [ngStyle]="{'display':display}">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">{{modalTitle}}</h4>
+                <button type="button" class="close" aria-label="Close" (click)="onCloseHandled()"><span
+                        aria-hidden="true">&times;</span></button>
+            </div>
+            <div class="modal-body">
+                <form [formGroup]="myForm">
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">First Name</label>
+                        <input type="email" class="form-control" id="exampleFormControlInput1"
+                            placeholder="name@example.com" formControlName="firstName" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Last Name</label>
+                        <input type="email" class="form-control" id="exampleFormControlInput1"
+                            placeholder="name@example.com" formControlName="lastName" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Username</label>
+                        <input type="email" class="form-control" id="exampleFormControlInput1"
+                            placeholder="name@example.com" formControlName="username" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Password</label>
+                        <input type="email" class="form-control" id="exampleFormControlInput1"
+                            placeholder="name@example.com" formControlName="password" required>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Is Verified</label>&nbsp;
+                        <input type="checkbox" formControlName="verified" required>
+                    </div>
+
+                </form>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-success" (click)="submitDetails(this.myForm.value)"
+                    *ngIf="!this.myForm.controls['id'].value">Submit</button>
+                <button type="button" class="btn btn-success" (click)="updatDetails(myForm.value)" *ngIf="(this.myForm.controls['id'].value)">
+                    Update</button>
+                <button type="button" class="btn btn-danger" (click)="onCloseHandled()">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
